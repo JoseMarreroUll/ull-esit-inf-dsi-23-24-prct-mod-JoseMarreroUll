@@ -1,1 +1,2 @@
 # ull-esit-inf-dsi-23-24-prct-mod-JoseMarreroUll
+[![Coverage Status](https://coveralls.io/repos/github/JoseMarreroUll/ull-esit-inf-dsi-23-24-prct-mod-JoseMarreroUll/badge.svg?branch=main)](https://coveralls.io/github/JoseMarreroUll/ull-esit-inf-dsi-23-24-prct-mod-JoseMarreroUll?branch=main)
